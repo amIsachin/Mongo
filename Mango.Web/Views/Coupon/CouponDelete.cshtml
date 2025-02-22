@@ -1,0 +1,47 @@
+﻿@model CouponDto
+
+<form asp-action="CouponDelete">
+    <div class="container border p-3">
+
+        <input asp-for="CouponId" hidden />
+
+        <div class="row">
+
+            <label class="col-form-label pt-2">Delete Coupon</label>
+
+            <div class="mb-3">
+                <label class="form-label">Coupon Code</label>
+                <input asp-for="CouponCode" disabled class="form-control" />
+                <span asp-validation-for="CouponCode" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Discount Amount</label>
+                <input asp-for="CouponAmount" disabled class="form-control" />
+                <span asp-validation-for="CouponAmount" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Minimum Amount</label>
+                <input asp-for="MinAmount" disabled class="form-control" />
+                <span asp-validation-for="MinAmount" class="text-danger"></span>
+
+            </div>
+
+            <div class="col-md-6">
+                <button asp-action="CouponIndex" type="submit" class="btn btn-primary" style="width:50%">Back to list</button>
+            </div>
+
+            <div class="col-md-6">
+
+                <button type="submit" class="btn btn-danger" style="width:50%">Submit</button>
+            </div>
+        </div>
+    </div>
+</form>
+
+@* @section Script {
+
+    <partial name="_ValidationScriptsPartial"></partial>
+
+} *@
