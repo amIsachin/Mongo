@@ -7,32 +7,64 @@
       "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBE28354-C81F-4FE0-AD67-49609433F6E0}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|s:\\.net\\learning\\mongo\\mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE28354-C81F-4FE0-AD67-49609433F6E0}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE28354-C81F-4FE0-AD67-49609433F6E0}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|s:\\.net\\learning\\mongo\\mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE28354-C81F-4FE0-AD67-49609433F6E0}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\service\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6EA2B18-4B16-48E8-9A4E-F09D4DD75D85}|Mango.Web\\Mango.Web.csproj|s:\\.net\\learning\\mongo\\mango.web\\models\\reponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,33 +86,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\TokenProvider.cs",
+              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\TokenProvider.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\TokenProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:37:27.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITokenProvider.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\IService\\ITokenProvider.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\ITokenProvider.cs",
+              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\IService\\ITokenProvider.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\IService\\ITokenProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:36:10.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Web\\appsettings.json",
+              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\appsettings.json",
+              "RelativeToolTip": "Mango.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T05:35:53.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\BaseService.cs",
+              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\BaseService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwFEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:27:25.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\IBaseService.cs",
+              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\IService\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:26:45.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:16:34.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:16:34.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SD.cs",
               "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Utility\\SD.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Utility\\SD.cs",
               "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Utility\\SD.cs",
               "RelativeToolTip": "Mango.Web\\Utility\\SD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T06:27:30.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "Register.cshtml",
               "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "Mango.Web\\Views\\Auth\\Register.cshtml",
               "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Views\\Auth\\Register.cshtml",
               "RelativeToolTip": "Mango.Web\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T06:12:56.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T06:12:56.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Login.cshtml",
               "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Mango.Web\\Views\\Auth\\Login.cshtml",
@@ -88,21 +207,45 @@
               "RelativeToolTip": "Mango.Web\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T06:12:04.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T06:12:04.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-22T06:04:38.477Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Program.cs",
+              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Program.cs",
+              "RelativeToolTip": "Mango.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T05:57:19.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Models\\RequestDto.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Models\\RequestDto.cs",
+              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Models\\RequestDto.cs",
+              "RelativeToolTip": "Mango.Web\\Models\\RequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:33:47.248Z"
             },
             {
               "$type": "Document",
@@ -110,42 +253,28 @@
               "Title": "AuthController.cs",
               "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Controllers\\AuthController.cs",
-              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Mango.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "Mango.Web\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAEkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T06:01:55.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Program.cs",
-              "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Program.cs",
-              "RelativeToolTip": "Mango.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T05:57:19.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AuthService.cs",
               "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\AuthService.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Service\\AuthService.cs",
               "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\AuthService.cs",
               "RelativeToolTip": "Mango.Web\\Service\\AuthService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T05:49:58.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T05:49:58.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "ReponseDto.cs",
               "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Models\\ReponseDto.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Models\\ReponseDto.cs",
@@ -153,21 +282,19 @@
               "RelativeToolTip": "Mango.Web\\Models\\ReponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T05:45:23.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T05:45:23.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\IService\\IAuthService.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\IAuthService.cs",
               "ToolTip": "S:\\.Net\\Learning\\Mongo\\Mango.Web\\Service\\IService\\IAuthService.cs",
               "RelativeToolTip": "Mango.Web\\Service\\IService\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T05:44:05.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T05:44:05.053Z"
             }
           ]
         }

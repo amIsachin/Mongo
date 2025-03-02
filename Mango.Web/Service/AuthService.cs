@@ -21,7 +21,7 @@ public class AuthService : IAuthService
         {
             ApiType = ApiType.POST,
             Data = registrationRequestDTO,
-            Url = CouponApiBase + "/api/AuthAPI/AssignRole"
+            Url = AuthAPIBase + "/api/AuthAPI/AssignRole"
         });
     }
 
@@ -31,7 +31,7 @@ public class AuthService : IAuthService
         {
             ApiType = ApiType.POST,
             Data = loginRequestDto,
-            Url = CouponApiBase + "/api/AuthAPI/Login"
+            Url = AuthAPIBase + "/api/AuthAPI/Login"
         });
     }
 
@@ -41,7 +41,7 @@ public class AuthService : IAuthService
         {
             ApiType = ApiType.POST,
             Data = registrationRequestDTO,
-            Url = CouponApiBase + "/api/AuthAPI/Register"
+            Url = AuthAPIBase + "/api/AuthAPI/Register"
         });
     }
 }

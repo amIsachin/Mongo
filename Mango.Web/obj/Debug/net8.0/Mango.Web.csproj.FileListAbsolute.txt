@@ -279,3 +279,4 @@ S:\.Net\Learning\Mongo\Mango.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\Micros
 S:\.Net\Learning\Mongo\Mango.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 S:\.Net\Learning\Mongo\Mango.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 S:\.Net\Learning\Mongo\Mango.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+S:\.Net\Learning\Mongo\Mango.Web\obj\Debug\net8.0\Mango.Web.sourcelink.json
