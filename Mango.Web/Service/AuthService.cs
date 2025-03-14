@@ -32,7 +32,7 @@ public class AuthService : IAuthService
             ApiType = ApiType.POST,
             Data = loginRequestDto,
             Url = AuthAPIBase + "/api/AuthAPI/Login"
-        });
+        }, withBearer: false);
     }
 
     public async Task<Mango.Web.Models.ReponseDto?> RegisterAsync(RegistrationRequestDTO registrationRequestDTO)
@@ -42,6 +42,6 @@ public class AuthService : IAuthService
             ApiType = ApiType.POST,
             Data = registrationRequestDTO,
             Url = AuthAPIBase + "/api/AuthAPI/Register"
-        });
+        }, withBearer: false);
     }
 }
